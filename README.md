@@ -1,1 +1,1 @@
-hellow TestSprite
+hellow TestSprite hellow TestSprite
